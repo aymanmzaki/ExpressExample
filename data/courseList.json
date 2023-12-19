@@ -1,0 +1,14 @@
+[
+  {
+    "courseId": 100,
+    "courseName": "sw arch",
+    "courseCH": 3,
+    "courseDescription": "this course is ........."
+  },
+  {
+    "courseId": 100,
+    "courseName": "sw arch2",
+    "courseCH": 3,
+    "courseDescription": "this course is ........."
+  }
+]

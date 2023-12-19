@@ -1,0 +1,7 @@
+<student>
+    <firstName >Ahmed</firstName>
+    <LastName>Ali</LastName>
+    <Email>AhmedAli@gmail.com</Email>
+    <Phone type="number">1010222554869</Phone>
+    <speakArabic type="boolean">true</speakArabic>
+</student>
